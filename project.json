@@ -15,6 +15,7 @@
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
+    "netFrameworkLazyLoading": false,
     "isPausable": true,
     "isAttended": false,
     "requiresUserInteraction": true,
@@ -43,36 +44,43 @@
         "editingStatus": "InProgress",
         "testCaseId": "72016fb2-ee49-4e6c-bddf-07b40ed1437b",
         "dataVariationFilePath": ".variations\\Tests_Tests.json",
+        "testCaseType": "TestCase",
         "fileName": "Tests\\GeneralTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "262621b6-9efc-4db0-8c38-a763d3b51746",
+        "testCaseType": "TestCase",
         "fileName": "Tests\\GetTransactionDataTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "7e545c5f-a787-4e35-ae8d-2b5529a5d509",
+        "testCaseType": "TestCase",
         "fileName": "Tests\\InitAllApplicationsTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "b9a3b1d6-8c5e-426d-9ad6-fd59a0c40345",
+        "testCaseType": "TestCase",
         "fileName": "Tests\\InitAllSettingsTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "e05d2436-885e-4ffb-a0a1-90f3ee1c61ed",
+        "testCaseType": "TestCase",
         "fileName": "Tests\\MainTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "53e7a684-6247-4a7f-8bee-631d3b647c1d",
+        "testCaseType": "TestCase",
         "fileName": "Tests\\ProcessTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "f94c2ae0-80ab-42e1-a95a-cb84fb295082",
+        "testCaseType": "TestCase",
         "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
       }
     ],
